@@ -1,7 +1,3 @@
-# display-atm-transaction
-/*
- * C# Program to Display the ATM Transaction
- */
 using System;
 class program
 {
